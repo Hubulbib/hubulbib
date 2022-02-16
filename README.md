@@ -1,4 +1,16 @@
-### Hi there 👋
+# Здравствуй! <img src="https://gifer.com/embed/3IsP" width='25px'>
+
+### Меня зовут Камал, и я занимаюсь веб-разработкой
+
+**Мой стэк:**
+* NodeJS
+* ExpressJS
+* MongoDB
+* TypeScript
+* React
+
+📫 Связь со мной: [vk](https://vk.com/muslimtype)
+
 
 <!--
 **Hubulbib/hubulbib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
