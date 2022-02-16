@@ -1,4 +1,4 @@
-# Здравствуй! <iframe src="https://gifer.com/embed/3IsP" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+# Здравствуй! <iframe src="https://gifer.com/embed/3IsP" width=480 height=480.000 frameBorder="0" allowFullScreen >
 
 ### Меня зовут Камал, и я занимаюсь веб-разработкой
 
