@@ -7,7 +7,6 @@
 * ExpressJS
 * MongoDB
 * TypeScript
-* React
 
 📫 Связь со мной: [vk](https://vk.com/muslimtype)
 
