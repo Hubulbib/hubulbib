@@ -8,7 +8,7 @@
 * MongoDB
 * TypeScript
 
-📫 Связь со мной: [vk](https://vk.com/muslimtype)
+📫 Связь со мной: [telegram](https://t.me/muslimtyper)
 
 
 <!--
