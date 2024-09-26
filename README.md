@@ -6,6 +6,9 @@
 * NodeJS
 * ExpressJS
 * MongoDB
+* PostgreSQL (Prisma, TypeORM)
+* S3 Storage
+* Clean architecture
 * TypeScript
 
 📫 Связь со мной: [telegram](https://t.me/muslimtyper)
