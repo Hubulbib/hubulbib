@@ -10,6 +10,7 @@
 * S3 Storage
 * Clean architecture
 * TypeScript
+* Golang
 
 📫 Связь со мной: [telegram](https://t.me/muslimtyper)
 
